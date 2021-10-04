@@ -1,6 +1,6 @@
 # go-redis-server
 
-Making a caching server for my [NewsToday](https://newstoday.tech/)
+Making a caching server for my [NewsToday](https://newstoday24.tech/)
 
 Earlier the response time of the heavy NodeJs Server is around 1s and now as I use redis to cache the response as the response does not change for 18mins.
 
